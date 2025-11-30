@@ -1,11 +1,11 @@
 Simon Game
 A Memory Challenge Game Built with JavaScript
-        Overview
-              A simple, fun, memory-based Simon Game built using HTML, CSS, JavaScript, and jQuery.
-              This project generates random sequences of colored buttons that the user must repeat in the same order.
-              Each successful round increases the level and score.
+      Overview
+            A simple, fun, memory-based Simon Game built using HTML, CSS, JavaScript, and jQuery.
+            This project generates random sequences of colored buttons that the user must repeat in the same order.
+            Each successful round increases the level and score.
 
-        Features
+      Features
 
             1.Random color sequence generation
 
@@ -34,7 +34,7 @@ A Memory Challenge Game Built with JavaScript
 
             6.Click Reset High Score to set High Score back to 0.
 
-    Tech Stack
+      Tech Stack
             HTML5
             CSS3 (animations + gradients)
             JavaScript
